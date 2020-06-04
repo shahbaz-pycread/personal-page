@@ -76,6 +76,21 @@ body{
     background: #333;
     color: #fff;
 }
+.container-skills{
+     width: 100%; /* Full width */
+    background-color: #ddd; /* Grey background */
+}
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.php {width: 90%; background-color: #4CAF50;} /* Green */
+.python {width: 80%; background-color: #2196F3;} /* Blue */
+.js {width: 65%; background-color: #f44336;} /* Red */
+
 
 
 /* Whenever the width of the screen is under 960px; */
